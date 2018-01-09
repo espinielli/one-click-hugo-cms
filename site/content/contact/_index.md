@@ -1,19 +1,24 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.jpg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: >-
+      Foyer Catholique Européen
+
+      rue du Cornet 51
+
+      1040 Bruxelles
+
+
+
+      <iframe scrolling="no" marginheight="0" marginwidth="0"
+      src="http://maps.google.de/maps?f=q&amp;hl=de&amp;geocode=&amp;q=51+rue+du+cornet,+bruxelles&amp;sll=51.124213,10.546875&amp;sspn=10.184701,24.301758&amp;ie=UTF8&amp;t=p&amp;s=AARTsJov3J-uf8nbmn_VabXYOGxOfdt31A&amp;ll=50.844159,4.388523&amp;spn=0.018969,0.036478&amp;z=14&amp;iwloc=addr&amp;output=embed"
+      width="425" height="350" frameborder="0"></iframe>
+  - heading: Contacts
+    text: |-
+      Tel: 32 (0)2 230 05 56
+      email: fce[at]skypro.be
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+For any information, do not hesitate to contact or visit us.
