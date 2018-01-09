@@ -3,14 +3,28 @@ title: Foyer Catholique Européenne
 subtitle: >-
   Centre de rencontres, de formation et de célébrations chrétiennes au service
   des milieux internationaux de Bruxelles
-image: /img/logo.png
+image: /img/logo.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why FCE?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Le Foyer Catholique Européen est une Association internationale sans but
+    lucratif (AISBL), reconnue par l'Etat belge, constituée depuis le 31 octobre
+    1963 par des fonctionnaires des institutions européennes de Bruxelles.
+
+
+    Association de laïcs - ce qui fait son originalité, vis-à-vis d'autres
+    initiatives prises dans le contexte du fonctionnariat européen - il est
+    entièrement financé par les cotisations et les dons de ses membres.
+
+
+    Le Foyer se propose, selon l'article 2 de ses Statuts, "...d'être un signe
+    d'unit de chrétiens engagés dans le processus d'unification de l'Europe.
+
+    Il a pour objet d'être un centre de rencontres, de réflexion, de formation,
+    d'action et de célébrations au service d'une pastorale catholique
+    européenne, dans un esprit oecumnique et social à l'intention des personnes
+    attachees aux institutions de l'Union Européenne et aux milieux
+    internationaux de Belgique, ainsi que de leurs familles".
 intro:
   heading: What we offer
   text: >-
@@ -18,20 +32,7 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+products: []
 values:
   heading: Our values
   text: >-
