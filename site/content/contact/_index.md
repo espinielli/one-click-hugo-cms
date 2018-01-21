@@ -4,7 +4,7 @@ logo: /img/logo.jpg
 contact_entries:
   - heading: Location
     text: |-
-      Foyer Catholique Européen
+      European Catholic Centre
       rue du Cornet 51
       1040 Bruxelles
   - heading: Contacts
