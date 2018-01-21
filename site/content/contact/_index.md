@@ -2,7 +2,7 @@
 title: Contact
 logo: /img/logo.jpg
 contact_entries:
-  - heading: Location
+  - heading: Address
     text: |-
       European Catholic Centre
       rue du Cornet 51
