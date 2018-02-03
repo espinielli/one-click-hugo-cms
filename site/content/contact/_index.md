@@ -5,7 +5,7 @@ contact_entries:
   - heading: Address
     text: 'rue du Cornet 51, 1040 Bruxelles'
   - heading: Telefone
-    text: 'Tel: +32-(0)2-230.05.56'
+    text: +32-(0)2-230.05.56
   - heading: email
     text: 'fce[at]skypro.be'
 ---
