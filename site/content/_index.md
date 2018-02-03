@@ -3,7 +3,7 @@ title: European Catholic Centre
 subtitle: >-
   Centre for meetings, formation and Christian celebrations at the service of
   international expats and people living in Brussels
-image: /img/logo.jpg
+image: /img/michelangelo-creazione-di-adamo.jpg
 blurb:
   heading: Why ECC?
   text: >-
